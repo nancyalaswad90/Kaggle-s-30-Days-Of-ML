@@ -1,17 +1,21 @@
 .
 
+> # Kaggle's 30 Days Of ML
+
+==============================
+
+
+
+![111.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1630679645/111.jpg)
 
 
 .
-
-![111.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1630679539/111.jpg)
-
-.
-![222.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1630679539/222.jpg)
-
-
+![222.jpg](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1630679644/222.jpg)
 
 .
+
+
+
 
 # Kaggle's 30 Days Of ML
 
