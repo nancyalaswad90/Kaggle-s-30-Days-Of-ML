@@ -12,6 +12,22 @@
 .
 
 
+> ## Note 
+
+==========
+
+All of the learning courses are always publicly available to complete at your own pace & you’ll receive a certificate for each course you complete. You can find all of the assignments here.
+
+
+
+
+
+
+
+
+
+
+
 .
 
 
