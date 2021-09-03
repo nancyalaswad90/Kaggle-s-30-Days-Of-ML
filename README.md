@@ -16,7 +16,10 @@
 
 ==========
 
-All of the learning courses are always publicly available to complete at your own pace & you’ll receive a certificate for each course you complete. You can find all of the assignments here.
+All of the learning courses are always publicly available to complete at your own pace & you’ll receive a certificate for each course you complete.
+
+
+## [ You can find all of the 30 Days of ML - Assignments here.](https://www.kaggle.com/thirty-days-of-ml-assignments?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=final-day)
 
 
 
