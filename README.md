@@ -30,13 +30,15 @@ All of the learning courses are always publicly available to complete at your ow
 
 
 
+## What’s next?
 
-.
+================
 
-
-
-
-## 
+I strongly encourage you to join another competition next month. If you’re not sure which competition would be a good fit, we recommend the [September Tabular Playground competition](https://www.kaggle.com/c/tabular-playground-series-sep-2021?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=final-day). 
 
 
-[Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+ For help on how to get started, check out [this Getting Started Notebook.](https://www.kaggle.com/ryanholbrook/getting-started-september-2021-tabular-playground?utm_medium=email&utm_source=gamma&utm_campaign=thirty-days-of-ml&utm_content=final-day)
+ 
+ 
+ 
+ .
